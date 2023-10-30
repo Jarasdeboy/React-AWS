@@ -1,0 +1,8 @@
+.imagenPersonalizada {
+    width: 500px; /* Tamaño deseado */
+    height: 800px; /* Altura ajustada automáticamente */
+    border: 2px solid #ccc; /* Borde de 2 píxeles sólidos */
+    display: block;
+    margin: 0 auto; /* Centrar horizontalmente */
+  }
+  
